@@ -3,3 +3,4 @@
 Livro de receitas do Luizinshow
 
 - Lasanha
+- Cuscuz com calabresa
